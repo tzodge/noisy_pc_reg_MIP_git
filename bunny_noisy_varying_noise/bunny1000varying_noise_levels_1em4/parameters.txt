@@ -1,0 +1,3 @@
+noiseSigmaM_z = 0.001000 
+noiseSigmaM_xy = 1.000000 
+noiseSigmaS = 0.000100 
